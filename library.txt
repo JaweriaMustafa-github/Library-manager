@@ -1,9 +1,1 @@
-[
-    {
-        "title": "Think and grow rich",
-        "author": "Napolean hill",
-        "year": 1937,
-        "genre": "Self help",
-        "read": true
-    }
-]
+[]
